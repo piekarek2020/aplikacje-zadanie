@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Zajeciaa\Zadanko2\Zadanko2\bin\Debug\Zadanko2.exe.config
+C:\Users\user\source\repos\Zajeciaa\Zadanko2\Zadanko2\bin\Debug\Zadanko2.exe
+C:\Users\user\source\repos\Zajeciaa\Zadanko2\Zadanko2\bin\Debug\Zadanko2.pdb
+C:\Users\user\source\repos\Zajeciaa\Zadanko2\Zadanko2\obj\Debug\alkohole.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Zajeciaa\Zadanko2\Zadanko2\obj\Debug\Zadanko2.Form1.resources
+C:\Users\user\source\repos\Zajeciaa\Zadanko2\Zadanko2\obj\Debug\Zadanko2.Properties.Resources.resources
+C:\Users\user\source\repos\Zajeciaa\Zadanko2\Zadanko2\obj\Debug\alkohole.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Zajeciaa\Zadanko2\Zadanko2\obj\Debug\alkohole.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Zajeciaa\Zadanko2\Zadanko2\obj\Debug\Zadanko2.exe
+C:\Users\user\source\repos\Zajeciaa\Zadanko2\Zadanko2\obj\Debug\Zadanko2.pdb
